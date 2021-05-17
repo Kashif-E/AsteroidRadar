@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="sixten_sp">16sp</dimen>
+    <dimen name="fourteen_sp">14sp</dimen>
+    <dimen name="normal_margin">8dp</dimen>
+
+</resources>
